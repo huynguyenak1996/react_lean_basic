@@ -9,5 +9,5 @@ const reportWebVitals = onPerfEntry => {
     });
   }
 };
-
+//đo hiệu năng web
 export default reportWebVitals;
